@@ -20,7 +20,7 @@ const Background = () => {
         </li>
         <li>
           <a href="https://www.youtube.com/watch?v=R9Plq-D1gEk">
-            Learn more from Joh Conway
+            Learn more from John Conway
           </a>
         </li>
       </ul>
