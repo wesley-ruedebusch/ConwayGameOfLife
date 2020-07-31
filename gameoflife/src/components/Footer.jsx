@@ -3,7 +3,11 @@ import React from "react";
 const Footer = () => {
   return (
     <footer>
-      <p>Footer</p>
+      <a
+        href="https://github.com/wesley-ruedebusch/ConwayGameOfLife.git"
+        target="_blank"
+      >
+      </a>
     </footer>
   );
 };
